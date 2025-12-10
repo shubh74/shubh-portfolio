@@ -1,87 +1,118 @@
-🌐 Personal Portfolio – Shubh Mehta
+<h1 align="center">🌐 Shubh Mehta – Personal Portfolio</h1>
 
-Welcome to my personal developer portfolio, built using **HTML, CSS, and JavaScript**.  
-This website showcases my **projects, skills, experience, and journey in tech**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Shubh%20Mehta-%23ff004f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20With-HTML%20CSS%20JS-blue?style=for-the-badge" />
+</p>
 
-👉 **Live Portfolio:**  
-🔗 https://shubh74.github.io/shubh-portfolio/
+<p align="center">
+  <b>My official developer portfolio showcasing my projects, skills, experience and journey in tech.</b>
+</p>
+
+---
+
+## 🔗 Live Portfolio
+
+🚀 **View the live website:**  
+👉 https://shubh74.github.io/shubh-portfolio/
+
+---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Shubh Mehta**, a passionate developer and B.Sc CS student from Mumbai, India.  
-I enjoy creating clean, responsive, and modern web experiences.  
-My skillset covers:
+Hi! I’m **Shubh Mehta**, a passionate developer and B.Sc CS student from Mumbai, India.  
+I create clean, modern, and responsive web experiences using **HTML, CSS, JavaScript**, Python, and SQL.  
+I love UI/UX, animations, backend concepts, and building real-world projects.
 
-- Frontend Development (HTML, CSS, JavaScript)  
-- Backend Basics (Python, Java)  
-- Database Management (SQL)  
-- UI/UX Understanding  
-- CRM Operations & HR App Management  
-- Photography & Creative Content
-
-I believe in continuous learning and building meaningful digital experiences.
-
-
-## 🚀 Features of This Portfolio
-
-✔ Fully responsive design  
-✔ Smooth UI/UX animations  
-✔ Projects with live links  
-✔ Skills & experience sections  
-✔ Contact section with SNS links  
-✔ SEO optimized for better visibility  
-✔ Favicon & structured metadata  
-✔ Clean and organized code structure  
-
-## 📂 Project Structure
+💡 Always learning.  
+💻 Always building.  
+🚀 Always leveling up.
 
 ---
 
-## 🖼️ Live Projects Featured
+## 🧩 Features of My Portfolio
 
-- 🎨 **Art Portfolio Website** 
-- 💼 **Modern Personal Portfolio**  
-- 🦾 **Iron Man Landing Page**  
-- 📱 **App Landing Page**  
-- 🖼️ **Advanced Art Gallery**  
-
-Each project includes both **live previews** and **source code**.
+- ⚡ Fully responsive design  
+- 🎨 Futuristic UI with animations  
+- 🔗 Projects with live previews  
+- 🧠 Skills + Experience + Education sections  
+- 📬 Contact section with social media links  
+- 🔍 SEO Optimized (OG tags + JSON-LD + keywords)  
+- 🖼️ Favicon + Dark/Neon theme  
+- 🧹 Clean, structured codebase  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **Font Awesome**  
-- **GitHub Pages** (for hosting)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🖼️ Projects Featured
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 🎨 Art Portfolio Website | Full art website to showcase artworks | 🔗 [Live Site](https://shubh74.github.io/Artsyycart/) |
+| 💼 Modern Portfolio | Clean & modern portfolio website | 🔗 [Live Site](https://shubh74.github.io/portfolio-sneha/) |
+| 🦾 Iron Man Landing Page | Futuristic themed landing page | 🔗 [Live Site](https://shubh74.github.io/shubh.github.io/) |
+| 📱 App Landing Page | App-focused modern landing screen | 🔗 [Live Site](https://shubh74.github.io/sportnexio/) |
+| 🎨 Artsyycart 2.0 | Improved art gallery website | 🔗 [Live Site](https://shubh74.github.io/artsnew/) |
+
+---
+
+## 📂 Folder Structure
+
+```
+shubh-portfolio/
+│── index.html
+│── style.css
+│── script.js (optional)
+│── images/
+└── assets/
+```
 
 ---
 
 ## 📬 Contact Me
 
-If you'd like to collaborate, hire me, or just say hello:
+<p>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff004f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shubh74"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/coderking__1"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-- 🌐 Portfolio: https://shubh74.github.io/shubh-portfolio/  
-- 📧 Email: shubhmehta@zohomail.in  
-- 💼 LinkedIn: https://www.linkedin.com/in/shubhmehta2006 
-- 🐙 GitHub: https://github.com/shubh74  
-- 📸 Instagram (Dev): https://instagram.com/coderking__1  
+---
 
+## ⭐ Support Me
 
+If you like this project, please consider **starring** the repo!
 
-## ⭐ Support My Work
+<p align="center">
+  <img src="https://img.shields.io/github/stars/shubh74/shubh-portfolio?style=social" />
+</p>
 
-If you like this portfolio and my projects:
+---
 
-**⭐ Give this repo a star!**  
-It motivates me to build more cool stuff.
+## 📈 Profile Visitors
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shubh74/count.svg" />
+</p>
+
+---
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-Feel free to use it as inspiration, but please give proper credit.
-
+Feel free to learn from the code, but please give proper credit.
 
