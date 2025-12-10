@@ -359,7 +359,7 @@ form .btn2 {
 }
 
 /* --------footer section-------- */
-#copyright {
+.copyright {
     width: 100%;
     text-align: center;
     padding: 25px 0;
@@ -462,4 +462,5 @@ nav .fas {
     font-size: 16px;
     margin-top: 10px;
     text-align: center;
+
 }
